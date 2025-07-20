@@ -6,7 +6,7 @@ Each specialized agent focuses on a specific aspect of the investment advisory p
 
 ---
 
-##Agent Roles
+## Agent Roles
 
 - **Data Analyst Agent**  
   Gathers and summarizes up-to-date market data, SEC filings, and market intelligence for a given stock ticker.
@@ -22,7 +22,7 @@ Each specialized agent focuses on a specific aspect of the investment advisory p
 
 ---
 
-##Features
+## Features
 
 - Conversational chatbot interface
 - Medium complexity with multi-step reasoning
